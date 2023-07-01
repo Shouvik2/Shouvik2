@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Shouvik2
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m Shouvik Pramanik
+- 👀 I’m interested in Web Development and compititive programming in java.
+- 🌱 I’m currently learning frontend development.
